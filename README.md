@@ -1,7 +1,7 @@
 ## Boas vindas ao meu perfil 😀
 
-Meu nome é Pablo Roberto.
-Atualmente sou estudante da Trybe.
+Meu nome é Pablo Roberto. <br>
+Atualmente sou estudante na Trybe.
 
 <br>
 
