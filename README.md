@@ -1,7 +1,7 @@
 ## Boas vindas ao meu perfil 😀
 
 Meu nome é Pablo Roberto.
-Atualmente sou estudante da Trybe e tentado uma carreira na área de TI.
+Atualmente sou estudante da Trybe.
 
 <br>
 
