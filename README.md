@@ -1,7 +1,9 @@
 ## Boas vindas ao meu perfil 😀
 
 Meu nome é Pablo Roberto. <br>
-Atualmente sou estudante na Trybe.
+
+"Sou estudante de Big Data para Negócios na FATEC Ipiranga, apaixonado por tecnologia e inovação. Tenho habilidades em análise de dados, Python, SQL e ferramentas como Power BI e Excel avançado. Busco constantemente aprendizado e desenvolvimento, com o sonho de impactar positivamente o mercado por meio de soluções baseadas em dados e inteligência artificial. Determinado e colaborativo, valorizo o trabalho em equipe e a busca por resultados eficientes e inovadores."  
+
 
 <br>
 
